@@ -1,7 +1,7 @@
 
 
 class Ground  {
-  constructor(x, y, w, h) {
+  constructor(x, y, width, height) {
     const options = {
       isStatic:true
     };
